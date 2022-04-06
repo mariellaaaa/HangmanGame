@@ -1,0 +1,52 @@
+  .form-control {
+    max-width: 600px;
+    max-height: 600px;
+    margin-left: 470px;
+  }
+
+  .btn {
+    padding: 30px;
+    margin-top: 10px;
+  }
+
+  .form-text {
+    margin-left: -265px;
+  }
+
+  .form-label {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .photo {
+    position:fixed;
+    bottom:155px;
+    left:57%;
+    width:50%;
+  }
+
+  #list {
+    margin-top: 40px;
+    margin-left: 120px;
+  }
+
+  #box {
+    max-width: 450px;
+    max-height: 400px;
+    margin-top: 20px;
+    margin-left: 120px;
+
+  }
+
+  #outputtext {
+    padding: 280px;
+    font-size: 90px;
+    font-weight: bold;
+  }
+
+  .center{
+    position:fixed;
+    bottom:10px;
+    left:45%;
+    width:50%;
+  }
